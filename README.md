@@ -1,2 +1,2 @@
 # Calendar
-User enters month, year, weak start and program output calendar correctly formated
+User enters month, year, and week start date.  Program output calendar correctly formated
