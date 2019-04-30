@@ -111,7 +111,7 @@ public class Calendar
 			
 			if (day_in_week_valid == false)
 			{
-				System.out.print("Enter day of week (0 = Sunday, 1 = Monday, etc.): ");
+				System.out.print("Enter starting day of month (0 = Sunday, 1 = Monday, etc.): ");
 				day = input.nextInt();
 				
 				if (day < 0 || day > 6)
@@ -175,6 +175,4 @@ public class Calendar
 		
 		
 	}
-}
-
-		
+}	
